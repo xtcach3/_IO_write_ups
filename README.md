@@ -3,4 +3,4 @@
 [htb-challs](./htb-challs)
 
 ## 2025
-[NexusCTF2025](./NexusCTF2025/)
+[NexHuntCTF2025](./NexHunt2025)
